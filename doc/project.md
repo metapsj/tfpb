@@ -6,7 +6,7 @@ TFPB is an acronym for "Time For Pickleball".
 ## Overview 
 
 TimeForPickleball.com is a website that provides information about pickleball 
-relevant to Seattle and the surraunding area.  The website is a comprehensive 
+relevant to Seattle and the surrounding area.  The website is a comprehensive 
 resource for open play times and locations used by pickleball enthusiasts to find 
 games and places to play.  
 
@@ -42,6 +42,8 @@ The TFPB project consists of following 5 core project phases and deliverables.
 The development of a simple web scraper using available libraries to extract 
 the relevant data from the TimeForPickleball.com website.
 
+The following are some of the technologies used to build the web scraper.
+
 - Headless Chrome Browser
 - Chrome DevTools Protocol aka CDP
 
@@ -49,6 +51,9 @@ the relevant data from the TimeForPickleball.com website.
 The design and development of a database to store the information from the 
 TimeForPickleball.com website in a structured normalized manner used by the web 
 application to retrieve and update records in the database.
+
+The following are some of the items created during the design and development 
+of the database.
 
 - Entity Relationship Diagram
 - Schema Migration Scripts
@@ -60,15 +65,20 @@ The development of a web application that retrieves and updates information stor
 in the database.  The information is rendered as HTML views for general public, 
 users, and administrators.
 
+The following are some of the features created as part of the development of 
+the web application.
+
 - Authentication and Authorization
-- Public Facing
-- User Facing
-- Administrative Facing
+- Public Facing Section
+- User Facing Section
+- Administrative Facing Section
 - Search
 
 ### Systems Infrastructure
 The development of scripts to provision, configure, and deploy the database and web 
 application to the hosting providers infrastructure.
+
+THe following are some of the items developed for the the systems infrastructure.
 
 - Provisioning Scripts
 - Configuration Scripts
