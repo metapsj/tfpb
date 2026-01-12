@@ -1,6 +1,6 @@
 # tfpb
 
-tfpb is an acronym for "time for pickleball".  tfpb is a web application to 
-replace the static website at TimeForPickleball.com.
+TFPB is an acronym for "time for pickleball".  TFPB is a web application to 
+replace the static html website at TimeForPickleball.com.
 
 
