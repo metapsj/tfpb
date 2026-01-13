@@ -81,15 +81,15 @@ gen/route:
 #
 .PHONY db/create
 db/create:
-	touch db/picklerally.db
+	touch db/tfpb.db
 
 .PHONY db/drop
 db/drop:
-	rm db/picklerally.rb
+	rm db/tfpb.db
 
 .PHONY db/migrate
 db/migrate:
-	sequel -m db/migrate sqlite://db/picklerally.db
+	sequel -m db/migrate sqlite://db/tfpb.db
 
 .PHONY db/seed
 db/seed:
