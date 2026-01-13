@@ -3,7 +3,7 @@ description
 
 ---
 
-# Web Scraper
+## Web Scraper
 description
 
 - Headless Chrome Browser
@@ -11,13 +11,16 @@ description
 - Ferrum
 - Vessel
 
-# Database
+## Database
 description
 
 - SQLite
 - SQL
+- FTS5, Full-text Search
+- SQLite-Vec, Vector Search
+- RRF - Reciprocal Rank Fusion
 
-# Web Application
+## Web Application
 description
 
 - Cuba
@@ -26,20 +29,32 @@ description
 - Cutest
 - Sheild
 
-# Systems Infrastructure
+## Systems Infrastructure
 description
 
-- Kamal, Capistrano, Itamae
+- Terraform
+- Kamal, Capistrano, and/or Itamae
+- Shell
 
-# PDF Scraper
+## PDF Scraper
 description
 
-# Email
+## Email
 description
 
 - SMTP
 
-# W3C Social Web Protocols
+## Background Jobs
+desctipion
+
+- ??
+
+## Single Sign-On 
+description
+
+- ??
+
+## W3C Social Web Protocols
 description
 
 - RSS
