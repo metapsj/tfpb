@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'cuba'
-gem 'rack-session'
+# gem 'rack-session'
 gem 'rack-protection'
 
 gem 'sqlite3'
