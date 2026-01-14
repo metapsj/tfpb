@@ -28,6 +28,13 @@ description
 - Sequel
 - Cutest
 - Sheild
+- ?? Herb vs Erubi
+
+## Frontend
+description
+
+- PicoCSS
+- HTMX
 
 ## Systems Infrastructure
 description
