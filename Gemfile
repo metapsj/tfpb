@@ -20,6 +20,16 @@ group :webscraper do
   gem 'vessel'
 end
 
+group :pdfscraper do
+  gem 'pdf-reader'
+end
+
+gem :cli do
+  gem 'bundler'
+  gem 'irb'
+  gem 'rake'
+end
+
 group :development, :test do
   gem 'webrick'
   gem 'rackup'
@@ -38,9 +48,4 @@ group :development, :test do
   gem 'debug'
 end
 
-gem :cli do
-  gem 'bundler'
-  gem 'irb'
-  gem 'rake'
-end
 

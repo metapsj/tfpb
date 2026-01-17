@@ -29,6 +29,7 @@ description
 - Cutest
 - Sheild
 - ?? Herb vs Erubi
+- Itsi
 
 ## Frontend
 description
@@ -42,9 +43,12 @@ description
 - Terraform
 - Kamal, Capistrano, and/or Itamae
 - Shell
+- Nginx or Traefik
 
 ## PDF Scraper
 description
+
+- pdf-reader
 
 ## Email
 description
@@ -54,12 +58,12 @@ description
 ## Background Jobs
 desctipion
 
-- ??
+- GoodJob, SuckerPunch, or SolidQueue
 
 ## Single Sign-On 
 description
 
-- ??
+- LDAP
 
 ## W3C Social Web Protocols
 description
