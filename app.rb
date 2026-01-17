@@ -30,7 +30,7 @@ Cuba.define do
 
   # root
   on root do
-    render 'index', title: 'TSPB - Testing'
+    render 'index', title: 'TFPB - Testing'
   end
 
   on "hello" do

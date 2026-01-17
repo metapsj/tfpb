@@ -16,6 +16,10 @@ gem 'shield'
 gem 'digest-murmurhash'
 gem 'rqrcode'
 
+group :webscraper do
+  gem 'vessel'
+end
+
 group :development, :test do
   gem 'webrick'
   gem 'rackup'
@@ -28,7 +32,8 @@ group :development, :test do
   
   gem 'rack-test'
   gem 'cutest'
-  gem 'capybara'
+  # gem 'capybara'
+  gem 'cuprite'
 
   gem 'debug'
 end
@@ -36,4 +41,6 @@ end
 gem :cli do
   gem 'bundler'
   gem 'irb'
+  gem 'rake'
 end
+
